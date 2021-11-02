@@ -1,0 +1,2 @@
+# MATIC_CASH
+Matic Cash (MATICC) is a peer-to-peer internet currency that enables instant, nearzero cost payments to anyone in the world. Matic Cash (MATICC) Is a decentralized finance currency on the Binance Smart Chain. A marketplace where people can buy, sell, and trade every day items using cryptocurrency. Matic Cash will be the primary currency, however we will integrate other tokens in the future
